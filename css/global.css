@@ -6,9 +6,9 @@
 }
 
 :root {
-  --brackground-primary-color: #ffffff;
-  --brackground-secondary-color: #f5f5f5;
-  --brackground-tertiary-color: #0000;
+  --background-primary-color: #ffffff;
+  --background-secondary-color: #f5f5f5;
+  --background-tertiary-color: #000000;
 
   --primary-color: #8f0101;
   --secondary-color: #b81515;
